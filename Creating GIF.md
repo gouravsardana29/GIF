@@ -9,6 +9,7 @@
   <li>Start the software.</li>
   <li>Draw the following pendulum hand shape using Line and Circle tools:
   </li>
+  ![alt text](https://github.com/gouravsardana29/GIF/blob/master/One.jpg)
   <li>With the Rotate tool, rotate the shape at -30°, -20°, -10°, 10°, 20° and 30° and save the image after every rotation so that you get the following 14 images:</li>
   <li>In a web browser, open a GIF Maker tool.</li>
   <li>Upload all 14 images in the GIF Maker tool.</li>
