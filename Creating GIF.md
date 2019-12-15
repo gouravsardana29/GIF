@@ -1,5 +1,7 @@
 # Creating a GIF image
 
+Perform the following steps to create a Graphic Interchange Format (GIF) image showing the animation effect.
+
 1. Download and install an image manipulation software such as PAINT.NET or GIMP.
 1. Start the software.
 1. Draw the following pendulum hand shape using __Line__ and __Circle__ tools:
