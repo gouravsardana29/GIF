@@ -8,7 +8,7 @@
 ![Alt Text](https://github.com/gouravsardana29/GIF/blob/master/Two.png)
 1. In a web browser, open a GIF Maker tool.
 1. Upload all 14 images in the GIF Maker tool.
-1. Set the animation speed to 200 ms.
+1. Set the animation speed to _200 ms_.
 1. Create and download the GIF animation.
 1. Open the GIF image to view the animation effect as follows:
 
